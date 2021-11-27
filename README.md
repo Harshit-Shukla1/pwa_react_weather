@@ -1,13 +1,13 @@
-#Weather Progressive Web Application
+# Weather Progressive Web Application
 ![68747470733a2f2f692e696d6775722e636f6d2f3363736f777a6a2e706e67](https://user-images.githubusercontent.com/42890845/143673747-66f743a0-410a-45a9-ab8c-004e66e7ddf8.png)
 
 
 	• Application Information:-
 		## Weather Application
-			###1. Have Search Bar
+			### 1. Have Search Bar
 				In there you can type the city you want weather Information
 				
-			###2. By end of the project application going to pass all the google slide house audits
+			### 2. By end of the project application going to pass all the google slide house audits
 				1) ![image](https://user-images.githubusercontent.com/42890845/143673903-98c2c6c6-467b-4b20-9858-b522b8c70ed3.png)
 
 					
@@ -22,7 +22,7 @@
 		
 		
 		
-	###• Progressive Web Apps provide you with a unique opportunity to deliver a web experience your users will love. Using the latest web features to bring native-like capabilities and reliability, Progressive Web Apps allow what you build to be installed by anyone, anywhere, on any device with a single codebase. 
+	### • Progressive Web Apps provide you with a unique opportunity to deliver a web experience your users will love. Using the latest web features to bring native-like capabilities and reliability, Progressive Web Apps allow what you build to be installed by anyone, anywhere, on any device with a single codebase. 
 ![image](https://user-images.githubusercontent.com/42890845/143673773-de5e18b6-1ae3-47a2-87e3-5be4d0499a6d.png)
 
 
